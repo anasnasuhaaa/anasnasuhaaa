@@ -1,6 +1,7 @@
 # Hi Everyone, I'm Anas Nasuha 👋
 <pre>a Student at SMKN 1 Kandanghaur Indramayu
 And This is my journey on Github</pre>
+<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 
 ## 💻 Tech Stack:
