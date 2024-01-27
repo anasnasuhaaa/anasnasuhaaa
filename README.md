@@ -1,5 +1,5 @@
-#👋 Hi Everyone, I'm Anas Nasuha
-## Student at SMKN 1 Kandanghaur Indramayu
+# 👋 Hi Everyone, I'm Anas Nasuha
+### I'm s Student at SMKN 1 Kandanghaur Indramayu
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
