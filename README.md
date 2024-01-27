@@ -1,5 +1,6 @@
-# 👋 Hi Everyone, I'm Anas Nasuha
-### I'm s Student at SMKN 1 Kandanghaur Indramayu
+# Hi Everyone, I'm Anas Nasuha 👋
+### I'm a Student at SMKN 1 Kandanghaur Indramayu
+### "This is my journey on GitHub."
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
