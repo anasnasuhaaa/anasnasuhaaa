@@ -1,6 +1,5 @@
-# Hi there, I'm Anas Nasuha👋
-
-Here are some ideas to get you started:
+#👋 Hi Everyone, I'm Anas Nasuha
+## Student at SMKN 1 Kandanghaur Indramayu
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
