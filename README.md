@@ -1,7 +1,7 @@
 # Hi Everyone, I'm Anas Nasuha 👋
 <pre>a Student at SMKN 1 Kandanghaur Indramayu
 And This is my journey on Github</pre>
-<img src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%"/>
+<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="code" width="100%" />
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
