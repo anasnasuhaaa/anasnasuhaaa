@@ -1,7 +1,6 @@
 # Hi Everyone, I'm Anas Nasuha 👋
-#### I'm a Student at SMKN 1 Kandanghaur Indramayu
-### This is my journey on GitHub.
-
+<p>a Student at SMKN 1 Kandanghaur Indramayu</p>
+<p>And This is my journey on Github.</p>
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
