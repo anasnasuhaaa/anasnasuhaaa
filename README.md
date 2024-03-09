@@ -1,5 +1,5 @@
 # Hi Everyone, I'm Anas Nasuha 👋
-<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="code" width="100%" />
+<img src="[https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8)" alt="code" width="100%" />
 
 ## 💻 :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
