@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=48&duration=1200&pause=2000&color=26B2FF&random=false&width=920&height=80&lines=Hi+There!%F0%9F%91%8B;I'm+Anas+Nasuha;I'm+a+Web+Development+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=48&duration=1200&pause=2000&color=26B2FF&vCenter=true&random=false&width=920&height=75&lines=Hi+There!%F0%9F%91%8B;I'm+Anas+Nasuha;Web+Development+Enthusiast)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anass.nsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-nasuha-61a70b2b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIo3Vvy9GTcSly4kfYgehZA%3D%3D) 
