@@ -20,16 +20,5 @@
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=red)](https://git-scm.com)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anasnasuhaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=anasnasuhaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anasnasuhaaa&theme=dark&hide_border=false)<br/>
-
-[![](https://visitcount.itsvg.in/api?id=anasnasuhaaa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
