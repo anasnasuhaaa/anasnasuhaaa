@@ -34,7 +34,7 @@
 ![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+<!-- [![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) -->
 </div>
 
 # 📊 GitHub Stats:
